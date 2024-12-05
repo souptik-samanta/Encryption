@@ -43,6 +43,7 @@ Key 1: 2
 Key 2: 3
 Encrypted Array: [23460, 22644, 23868, 22848, 23664, 21420, 21828, 9996, 10200]
 ```
+![image](https://github.com/user-attachments/assets/9c37ce3f-5d2e-4338-90cb-a7c616c29ea8)
 
 ## Methods Explained
 ### `toAscii(String s, int k1)`
