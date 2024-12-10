@@ -1,6 +1,5 @@
 # Encryptor
 
-## Overview
 The **Encryptor** program is a Java-based application designed to encrypt a given string using a two-key mechanism. It converts characters to their ASCII values, applies transformations using the keys, and outputs the encrypted data as an array. The program can be paired with a decryptor to reverse the encryption process.
 AI USED TO MAKE GRAMMER CORRECT
 ## Features
@@ -16,7 +15,4 @@ AI USED TO MAKE GRAMMER CORRECT
 5. **Output:** Displays the two keys and the encrypted array.
 
 
-
-## License
-This project is licensed under the MIT License. Feel free to use, modify, and distribute it as needed.
 
